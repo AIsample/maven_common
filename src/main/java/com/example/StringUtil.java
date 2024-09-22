@@ -1,4 +1,4 @@
-package com.example.maven_common;
+package com.example;
 
 public class StringUtil {
     public String getRepo() {
